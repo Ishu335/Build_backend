@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+psycopg2-binary
+sqlalchemy
+aiosqlite
+apscheduler
+httpx
+python-dotenv
+cryptography
+passlib
+bcrypt
+jwt
+python-multipart    
