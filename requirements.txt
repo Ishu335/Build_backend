@@ -12,3 +12,11 @@ passlib
 bcrypt
 jwt
 python-multipart    
+posthogics
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+databases
+python-multipart
+jinja2
