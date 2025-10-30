@@ -8,15 +8,7 @@ apscheduler
 httpx
 python-dotenv
 cryptography
-passlib
-bcrypt
-jwt
-python-multipart    
-posthogics
-fastapi
-uvicorn
-sqlalchemy
-pydantic
+passlib[bcrypt]
+pyjwt
 databases
-python-multipart
 jinja2
